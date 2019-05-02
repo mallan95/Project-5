@@ -19,3 +19,4 @@ This tool would take a 4 letter input from the user and then add that into the l
 I chose to create a table which would update with 1 station within 1 hamming distance, 2 within 2, 3 within 3 and 4 within 4. I also attempted to have it display as a seperate frame, but when I was doing that I somehow broke it so that it no longer diplayed the relevent stations, only the distances, and the frame pops up empty. I did a LOT of troubleshooting to try to figure out where I went wrong but I was unable to find the solution.
 
 ## UML
+![Test Image 1](Untitled Diagram.jpg)
